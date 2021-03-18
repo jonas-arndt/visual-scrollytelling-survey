@@ -1,0 +1,1850 @@
+[
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/01/08/nyregion/central-park-squirrel-census.html",
+        "Title": "I Helped Count the 2,373 Squirrels in Central Park",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Slideshow"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/01/16/us/politics/senate-impeachment-trial-sketches.html",
+        "Title": "A Sketch Artist\u2019s View of Trump\u2019s Impeachment Trial",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/01/23/us/politics/impeachment-senate-chamber-diagram.html",
+        "Title": "A 3-D Tour of How the Senate Was Transformed for the Impeachment Trial",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html",
+        "Title": "Coronavirus World Map: Tracking the Global Outbreak",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/01/30/us/politics/iowa-poll-voters.html",
+        "Title": "We Flew to Iowa to Meet With 15 Caucusgoers",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text article and content cards"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/01/30/us/politics/democratic-presidential-candidates-quiz.html",
+        "Title": "A Quick Quiz to Match You With a Democratic Candidate ",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Text Article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/01/31/us/politics/what-is-iowa-caucus.html",
+        "Title": "How the Iowa Caucuses Work",
+        "Publication Date": "01/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/02/14/us/politics/iowa-caucus-results-mistakes.html",
+        "Title": "We Checked the Iowa Caucus Math. Here\u2019s Where It Didn\u2019t Add Up.",
+        "Publication Date": "02/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/02/01/us/politics/democratic-presidential-campaign-donors.html",
+        "Title": "The Donors Powering the Campaign of Bernie Sanders",
+        "Publication Date": "02/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/02/15/us/politics/michael-bloomberg-spending.html",
+        "Title": "Bloomberg\u2019s Billions: How the Candidate Built an Empire of Influence",
+        "Publication Date": "02/2020",
+        "Format": NaN,
+        "Layout": "Sequence of step based scrollytelling, text flyover scrollytelling, and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/02/21/business/coronavirus-airline-travel.html",
+        "Title": "13,000 Missing Flights: The Global Consequences of the Coronavirus",
+        "Publication Date": "02/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html",
+        "Title": "Coronavirus in the U.S.: Latest Map and Case Count",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text Article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/02/us/politics/2020-super-tuesday-states.html",
+        "Title": "Here\u2019s What\u2019s at Stake in Super Tuesday States",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Sequence of step based scrollytelling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/world/coronavirus-maps-italy-iran-korea.html",
+        "Title": "How the World\u2019s Largest Coronavirus Outbreaks Are Growing",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html",
+        "Title": "Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html",
+        "Title": "How the Virus Got Out",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html",
+        "Title": "Watch How the Coronavirus Spread Across the United States",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/23/world/coronavirus-great-empty.html",
+        "Title": "The Great Empty",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html?action=click&module=Opinion&pgtype=Homepage",
+        "Title": "Trump Wants to \u2018Reopen America.\u2019 Here\u2019s What Happens if We Do.",
+        "Publication Date": "03/2020",
+        "Format": "Opinion",
+        "Layout": "Sequence of side by side scrollytelling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/26/upshot/coronavirus-millions-unemployment-claims.html",
+        "Title": "Weekly Unemployment Claims",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/video/nyregion/100000007052136/coronavirus-elmhurst-hospital-queens.html",
+        "Title": "\u2018People Are Dying\u2019: 72 Hours Inside an N.Y.C. Hospital",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Video with caption"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/03/27/world/europe/coronavirus-italy-bergamo.html",
+        "Title": "\u2018We Take the Dead From Morning Till Night\u2019",
+        "Publication Date": "03/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html",
+        "Title": "Where America Didn\u2019t Stay Home Even as the Virus Spread",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/05/world/europe/italy-coronavirus-lockdown-reopen.html",
+        "Title": "Italy\u2019s Virus Shutdown Came Too Late. What Happens Now?",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/11/business/economy/coronavirus-us-economy-spending.html",
+        "Title": "How the Virus Transformed the Way Americans Spend Their Money",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/06/us/coronavirus-deaths-united-states.html",
+        "Title": "See How the Coronavirus Death Toll Grew Across the U.S.",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/13/science/apollo-13-moon-photos-as-they-shot-it.html",
+        "Title": "Apollo 13 As They Shot It",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Conversation style with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html",
+        "Title": "This 3-D Simulation Shows Why Social Distancing Is So Important",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/17/us/coronavirus-testing-states.html",
+        "Title": "Coronavirus Testing Needs to Triple Before the U.S. Can Reopen, Experts Say",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html",
+        "Title": "412,000 Missing Deaths: Tracking the True Toll of the Coronavirus Outbreak",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/22/us/coronavirus-death-rates.html",
+        "Title": "State by State: Comparing Coronavirus Death Rates Across the U.S.",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html",
+        "Title": "See Coronavirus Restrictions and Mask Mandates for All 50 States",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text article and content cards"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/26/us/us-hospital-access-coronavirus.html",
+        "Title": "Where Americans Live Far From the Emergency Room",
+        "Publication Date": "04/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html?smtyp=cur&smid=tw-nytopinion",
+        "Title": "How Long Will A Vaccine Really Take?",
+        "Publication Date": "04/2020",
+        "Format": "Opinion",
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/world/coronavirus-health-care-workers.html",
+        "Title": "In Harm\u2019s Way",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Interactive data visualization"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/05/us/coronavirus-death-toll-us.html",
+        "Title": "True Pandemic Toll in the U.S. Reaches 377,000",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/12/us/coronavirus-testing-white-house.html",
+        "Title": "Here\u2019s How One of the Rapid Tests Used by the White House Works",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html",
+        "Title": "The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/video/us/100000007142853/ahmaud-arbery-video-911-georgia.html",
+        "Title": "Ahmaud Arbery\u2019s Final Minutes: What Videos and 911 Calls Show",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Video with caption"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/video/us/100000007097093/coronavirus-st-johns-hospital-far-rockaway.html",
+        "Title": "\u2018Lord Have Mercy\u2019: Inside One of New York\u2019s Deadliest ZIP Codes",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Video with caption"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html?smid=tw-share",
+        "Title": "An Incalculable Loss",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/27/sunday-review/coronavirus-effects.html",
+        "Title": "54 Ways Coronavirus Has Changed Our World",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Interactive data visualization"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/29/arts/skateboarding-nyc-lockdown.html",
+        "Title": "It\u2019s Like I\u2019m Floating: Skating New York Under Lockdown",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Side by side scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/05/31/nyregion/coronavirus-birding-nyc.html",
+        "Title": "New York Is Quiet. Listen to the Birds.",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html",
+        "Title": "How George Floyd Was Killed in Police Custody",
+        "Publication Date": "05/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/03/us/minneapolis-police-use-of-force.html",
+        "Title": "Minneapolis Police Use Force Against Black People at 7 Times the Rate of Whites",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/07/us/george-floyd-protest-aerial-photos.html",
+        "Title": "Bird\u2019s Eye View of Protests Across the U.S. and Around the World",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Image list"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/08/us/meat-processing-plants-coronavirus.html",
+        "Title": "Take a Look at How Covid-19 Is Changing Meatpacking Plants",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Slideshow"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/12/opinion/reader-dreams-2020.html",
+        "Title": "20 Dreams of 2020",
+        "Publication Date": "06/2020",
+        "Format": "Opinion",
+        "Layout": "Slideshow"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/10/world/coronavirus-history.html",
+        "Title": "How the Coronavirus Compares With 100 Years of Deadly Events",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Vertical data axis"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/12/arts/design/robert-frank-americans.html",
+        "Title": "A Portrait of America That Still Haunts, Decades Later",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Side by side scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/13/us/george-floyd-protests-cities-photos.html",
+        "Title": "How Black Lives Matter Reached Every Corner of America",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Complex text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/16/us/george-floyd-protests-police-tear-gas.html",
+        "Title": "Here Are the 100 U.S. Cities Where Protesters Were Tear-Gassed",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/video/us/100000007174941/philadelphia-tear-gas-george-floyd-protests.html",
+        "Title": "How the Philadelphia Police Tear-Gassed a Group of Trapped Protesters",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Video with caption"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html",
+        "Title": "More Than 100,000 U.S. Coronavirus Deaths Are Linked to Nursing Homes",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html",
+        "Title": "Three Words. 70 Cases. The Tragic History of \u2018I Can\u2019t Breathe.\u2019",
+        "Publication Date": "06/2020",
+        "Format": NaN,
+        "Layout": "Sequence of custom scrollbased animation and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/02/us/coronavirus-cases-increase.html",
+        "Title": "Coronavirus Cases Are Peaking Again. Here\u2019s How It\u2019s Different This Time.",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/2020/07/09/opinion/sunday/ban-cars-manhattan-cities.html",
+        "Title": "I\u2019ve Seen a Future Without Cars, and It\u2019s Amazing",
+        "Publication Date": "07/2020",
+        "Format": "Opinion",
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html",
+        "Title": "Black Lives Matter May Be the Largest Movement in U.S. History",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html",
+        "Title": "How the Virus Won",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/18/world/asia/china-india-border-conflict.html",
+        "Title": "Battle in the Himalayas",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html",
+        "Title": "The Fullest Look Yet at the Racial Inequity of Coronavirus",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/25/world/americas/coronavirus-brazil-amazon.html",
+        "Title": "The Amazon, Giver of Life, Unleashes the Pandemic",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/14/nyregion/nypd-george-floyd-protests.html",
+        "Title": "N.Y.P.D. Says It Used Restraint During Protests. Here\u2019s What the Videos Show.",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html",
+        "Title": "Trump vs. Biden: Who\u2019s Winning the Money Race in Your ZIP Code?",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/24/business/economy/600-unemployment-benefits.html",
+        "Title": "$600 Unemployment: What Happens When a Stimulus Lifeline Ends",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/26/nyregion/nyc-covid-19-mta-transit-workers.html",
+        "Title": "Transit Workers Were N.Y.C.\u2019s Pandemic Lifeline. These 3 Paid a Price.",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/science/exploring-the-solar-system.html",
+        "Title": "Exploring the Solar System",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Custom text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/30/upshot/coronavirus-stimulus-bill.html",
+        "Title": "The Gulf Between Republicans and Democrats on Coronavirus Aid, in 9 Charts",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/31/us/portland-protests-map-photos.html",
+        "Title": "Inside the Battle for Downtown Portland",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/07/31/travel/coronavirus-travel-risk.html",
+        "Title": "Should You Travel This Year?",
+        "Publication Date": "07/2020",
+        "Format": NaN,
+        "Layout": "Interactive questionnaire"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html",
+        "Title": "Mapping the Damage From the Beirut Explosion",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/05/well/covid-19-symptoms.html",
+        "Title": "Could My Symptoms Be Covid-19?",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/10/opinion/us-coronavirus-vote-by-mail.html",
+        "Title": "What if Everyone Had Voted by Mail in 2016?",
+        "Publication Date": "08/2020",
+        "Format": "Opinion",
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/10/nyregion/nyc-subway-coronavirus.html",
+        "Title": "What Happens to Viral Particles on the Subway",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/10/us/houston-hospital-coronavirus.html",
+        "Title": "Inside the Fight to Save Houston\u2019s Most Vulnerable",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Custom text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/20/movies/criterion-collection-african-americans.html",
+        "Title": "How the Criterion Collection Crops Out African-American Directors",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Sequence of focus scrollytelling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/24/climate/racism-redlining-cities-global-warming.html",
+        "Title": "How Decades of Racist Housing Policy Left Neighborhoods Sweltering",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html",
+        "Title": "Tracking the Coronavirus at U.S. Colleges and Universities",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/28/us/politics/rnc-speakers-time.html",
+        "Title": "Exactly How Much Air Time Did the Trump Family Get?",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/08/31/us/politics/vote-by-mail-deadlines.html",
+        "Title": "Will You Have Enough Time to Vote by Mail in Your State?",
+        "Publication Date": "08/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/elections/electoral-college-battleground-states.html",
+        "Title": "The Battleground States Biden and Trump Need to Win 270",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/02/upshot/america-political-spectrum.html",
+        "Title": "The True Colors of America\u2019s Political Spectrum Are Gray and Green",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/04/world/asia/hong-kong-speech.html",
+        "Title": "What You Can No Longer Say in Hong Kong",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Custom text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/09/world/middleeast/beirut-explosion.html",
+        "Title": "How a Massive Bomb Came Together in Beirut\u2019s Port",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/09/us/powerful-people-race-us.html",
+        "Title": "Faces of Power: 80% Are White, Even as U.S. Becomes More Diverse",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Custom text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/19/us/politics/supreme-court-vacancies-election-year.html",
+        "Title": "Ginsburg Supreme Court Vacancy Is the Second Closest to a U.S. Election Ever",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/21/us/covid-schools.html",
+        "Title": "What We Know About Coronavirus Cases in K-12 Schools So Far",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/24/climate/fires-worst-year-california-oregon-washington.html",
+        "Title": "Record Wildfires on the West Coast Are Capping a Disastrous Decade",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes-timeline.html",
+        "Title": "Charting an Empire: A Timeline of Trump\u2019s Finances",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/09/23/upshot/mail-ballots-states-disqualification.html",
+        "Title": "Can the Ballots Thrown Out in the Primaries Be Saved in November?",
+        "Publication Date": "09/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/02/opinion/amazon-under-threat.html",
+        "Title": "Every Place Under Threat",
+        "Publication Date": "10/2020",
+        "Format": "Opinion",
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/02/us/politics/trump-contact-tracing-covid.html",
+        "Title": "Tracking the White House Coronavirus Outbreak",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html",
+        "Title": "Charting a Coronavirus Infection",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/03/us/rose-garden-event-covid.html",
+        "Title": "Inside the White House Event Now Under Covid-19 Scrutiny",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/05/opinion/trump-record-quiz.html",
+        "Title": "Can You Guess Trump\u2019s Record?",
+        "Publication Date": "10/2020",
+        "Format": "Opinion",
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/07/upshot/mail-voting-ballots-signature-matching.html",
+        "Title": "Two of These Mail Ballot Signatures Are by the Same Person. Which Ones?",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/08/us/white-house-coronavirus-cdc.html",
+        "Title": "How the White House Flouted Basic Coronavirus Rules",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/10/us/trump-properties-swamp.html",
+        "Title": "The Swamp That Trump Built",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings, focus scrollytelling, and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/12/style/faze-3d-house-tour.html",
+        "Title": "The New Corporate Campus",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytelling and step based scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/15/us/coronavirus-cases-us-surge.html",
+        "Title": "U.S. Virus Cases Climb Toward a Third Peak",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/22/us/covid-rural-us.html",
+        "Title": "The Worst Virus Outbreaks in the U.S. Are Now in Rural Areas",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/27/us/elections/election-2020-questions.html",
+        "Title": "The Anxious Person\u2019s Guide to the 2020 Election",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Checklist"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/25/us/politics/trump-biden-campaign-donations.html",
+        "Title": "The Two Americas Financing the Trump and Biden Campaigns",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/politics/what-are-the-battleground-states.html",
+        "Title": "Voters in Battleground States Are Driving Record Early Turnout",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html",
+        "Title": "Quiz: Can You Tell a \u2018Trump\u2019 Fridge From a \u2018Biden\u2019 Fridge?",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/28/us/politics/vote-count-how-long.html",
+        "Title": "How Mail Votes Could Delay Election Results",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Slideshow"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/politics/battleground-state-polls.html",
+        "Title": "The Battlegrounds Within Battlegrounds",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html",
+        "Title": "Masks Work. Really. We\u2019ll Show You How",
+        "Publication Date": "10/2020",
+        "Format": NaN,
+        "Layout": "Text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html",
+        "Title": "Presidential Election Results: Biden Wins",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Interactive data visualization"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/02/science/iss-20th-anniversary-timeline.html",
+        "Title": "Two Decades of Living Aboard the International Space Station",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Vertical time axis"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/forecast-president.html",
+        "Title": "Election Needles: President",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Custom data visualzation"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/07/us/elections/pennsylvania-counties-battleground-state.html",
+        "Title": "How Biden Flipped Pennsylvania and Won the Election",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/09/us/politics/2016-election-trump-counties.html",
+        "Title": "How Did Trump Do in Counties That Backed Him in 2016?",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/16/us/politics/election-turnout.html",
+        "Title": "Even in Defeat, Trump Found New Voters Across the U.S.",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Sequence of text flyover scrollytetlling and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/17/upshot/georgia-precinct-shift-suburbs.html",
+        "Title": "Detailed Turnout Data Shows How Georgia Turned Blue",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/18/us/covid-state-restrictions.html",
+        "Title": "States That Imposed Few Restrictions Now Have the Worst Outbreaks",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/21/science/artificial-intelligence-fake-people-faces.html",
+        "Title": "Designed to Deceive: Do These People Look Real to You?",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/covid-cases-deaths-tracker.html",
+        "Title": "Track Coronavirus Cases in Places Important to You",
+        "Publication Date": "11/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/12/02/arts/design/chinatown-virtual-walk-tour.html",
+        "Title": "A Tour of Chinatown, Resilient and Proud",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded step based 3D scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/12/03/opinion/covid-19-vaccine-timeline.html?action=click&module=Opinion&pgtype=Homepage",
+        "Title": "Find Your Place in the Vaccine Line",
+        "Publication Date": "12/2020",
+        "Format": "Opinion",
+        "Layout": "Interactive questionnaire"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/2020/12/03/arts/music/prince-sign-o-the-times.html",
+        "Title": "Prince\u2019s Artistic Process Was a Mystery. See How He Made \u2018Sign o\u2019 the Times.\u2019",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?map_type=change-arrows&geography_type=counties",
+        "Title": "How the Vote Shifted in 2020",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Custom data visualzation"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html",
+        "Title": "How the Pfizer-BioNTech Vaccine Works",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/12/09/us/covid-hospitals-icu-capacity.html",
+        "Title": "\u2018There\u2019s No Place for Them to Go\u2019: I.C.U. Beds Near Capacity Across U.S.",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/covid-hospitals-near-you.html",
+        "Title": "How Full Are Hospital I.C.U.s Near You?",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/12/17/world/asia/india-pollution-inequality.html",
+        "Title": "Who Gets to Breathe Clean Air in New Delhi?",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Sequence of custom text article and text flyover scrollytelling"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html",
+        "Title": "At Least 614,000 People in the U.S. Have Received the Covid-19 Vaccine",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Text article with embedded elements"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/12/17/nyregion/nyc-open-streets.html",
+        "Title": "How New Yorkers Want to Change the Streetscape for Good",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple draw scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/interactive/2020/12/20/us/politics/election-hispanics-asians-voting.html",
+        "Title": "Immigrant Neighborhoods Shifted Red as the Country Chose Blue",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Sequence of multiple text flyover scrollytellings and text article"
+    },
+    {
+        "Newspaper": "NYTimes",
+        "Link": "https://www.nytimes.com/video/us/100000007348445/breonna-taylor-death-cops.html",
+        "Title": "How the Police Killed Breonna Taylor",
+        "Publication Date": "12/2020",
+        "Format": NaN,
+        "Layout": "Video with caption"
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/ein-fall-totale-abriegelung-so-schuetzt-australien-die-gesamte-bevoelkerung-gegen-das-coronavirus/",
+        "Title": "So sch\u00fctzt Australien die gesamte Bev\u00f6lkerung gegen das Coronavirus",
+        "Publication Date": "05.02.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/welche-laender-bekaempfen-die-pandemie-am-wirkungsvollsten/",
+        "Title": "Wer bek\u00e4mpft die Pandemie am wirkungsvollsten?",
+        "Publication Date": "04.02.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-im-vergleich-zu-anderen-todesursachen-an-corona-sind-zehnmal-so-viele-menschen-gestorben-wie-bei-verkehrsunfaellen/",
+        "Title": "Die Coronatodesf\u00e4lle im Vergleich zu den h\u00e4ufigsten Todesursachen",
+        "Publication Date": "29.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/",
+        "Title": "Alle Corona-F\u00e4lle in den Landkreisen, Bundesl\u00e4ndern und weltweit",
+        "Publication Date": "17.03.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/ein-jahr-corona-in-deutschland/",
+        "Title": "Chronik eines Kontroll\u00adverlusts",
+        "Publication Date": "27.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/warten-auf-das-lockdown-ende-wann-erreichen-wir-die-50er-inzidenz/",
+        "Title": "Wann erreichen wir die 50er-Inzidenz?",
+        "Publication Date": "22.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/entwicklung-der-coronazahlen-sind-weihnachtsbesuche-schuld-an-der-lockdown-verlaengerung/",
+        "Title": "Sind Weihnachtsbesuche schuld an der Lockdown-Verl\u00e4ngerung?",
+        "Publication Date": "22.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wann-bin-ich-mit-der-coronaimpfung-dran-und-wo-bekomme-ich-einen-impftermin/",
+        "Title": "Wann bin ich mit der Impfung dran, wo bekomme ich einen Termin und wie viele wurden schon geimpft?",
+        "Publication Date": "21.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/verliebt-verwirrt-vereinsamt-corona-hat-die-ganze-welt-umgekrempelt-leserinnen-und-leser-erzaehlen-wie-das-virus-ihr-leben-veraendert-hat/",
+        "Title": "\u00d6de neue Welt?",
+        "Publication Date": "13.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/belaestigung-von-frauen-ich-habe-ihre-brueste-beruehrt-ich-weiss-nicht-ob-sie-das-wollte/",
+        "Title": "\u201eIch habe ihre Br\u00fcste ber\u00fchrt, ich wei\u00df nicht, ob sie das wollte\u201c",
+        "Publication Date": "18.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/kommt-deutschland-endlich-zur-ruhe-die-mobilitaet-in-deutschland-geht-zurueck-aber-nicht-ueberall/",
+        "Title": "Die Mobilit\u00e4t in Deutschland geht zur\u00fcck \u2013 aber nicht \u00fcberall",
+        "Publication Date": "12.01.2021",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/den-toten-der-coronapandemie/",
+        "Title": "Sie fehlen.",
+        "Publication Date": "21.12.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/das-hat-berlin-bisher-fuer-die-vision-zero-getan/",
+        "Title": "Das hat Berlin bisher f\u00fcr die Vision Zero getan",
+        "Publication Date": "18.12.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/hotspots-und-rechte-haengen-afd-hochburgen-und-corona-hotspots-zusammen/",
+        "Title": "H\u00e4ngen AfD-Hochburgen und hohe Coronazahlen zusammen?",
+        "Publication Date": "12.12.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/zwei-wochen-nach-beginn-der-beschraenkungen-wie-sich-die-mobilitaet-der-deutschen-im-teil-lockdown-veraendert/",
+        "Title": "Wie sich die Mobilit\u00e4t der Deutschen im Teil-Lockdown ver\u00e4ndert",
+        "Publication Date": "20.11.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/blackstone-3500-berliner-wohnungen-in-der-hand-von-einem-der-groessten-investoren-der-welt/",
+        "Title": "Finanzinvestor Blackstone besitzt Tausende Wohnungen in Berlin",
+        "Publication Date": "09.11.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/deutschland-positivraten-was-bedeuten-sie/",
+        "Title": "Was die steigenden Positivraten bedeuten",
+        "Publication Date": "05.11.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/flughafen-ber-in-3d/",
+        "Title": "Deswegen wurde 14 Jahre lang gebaut",
+        "Publication Date": "17.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/die-interessantesten-neuen-restaurants-in-berlin-im-sommer-2020/",
+        "Title": "Die interessantesten neuen Restaurants in Berlin",
+        "Publication Date": "23.09.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/antisemitische-uebergriffe-so-wurde-die-gewalt-zum-flaechenbrand/",
+        "Title": "So wurde die Gewalt zum Fl\u00e4chenbrand",
+        "Publication Date": "26.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wie-tesla-in-gruenheide-landet/",
+        "Title": "Wie Tesla in Gr\u00fcnheide landet",
+        "Publication Date": "14.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wenig-neue-faelle-geringe-todeszahlen-wie-ostasien-die-pandemie-haendelt/",
+        "Title": "Wie Ostasien die Pandemie im Griff hat",
+        "Publication Date": "04.12.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-modelle-fuer-die-kommenden-wochen-ist-weihnachten-noch-zu-retten/",
+        "Title": "Ist Weihnachten noch zu retten?",
+        "Publication Date": "27.11.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/zweite-welle-werden-die-intensivbetten-knapp/",
+        "Title": "Werden die Intensivbetten knapp?",
+        "Publication Date": "18.11.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-fast-so-viele-reisen-wie-vor-der-pandemie/",
+        "Title": "Die Deutschen sind so mobil wie vor der Pandemie",
+        "Publication Date": "23.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/innerdeutsche-risikogebiete-corona/",
+        "Title": "Diese Reise\u00adbeschr\u00e4nkungen gelten f\u00fcr Corona-Hotspots",
+        "Publication Date": "28.09.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-risikogebiete-und-reisewarnungen-fuer-alle-laender/",
+        "Title": "Wie gef\u00e4hrlich ist Urlaub gerade in welchen L\u00e4ndern?",
+        "Publication Date": "24.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-analyse-in-welchen-regionen-die-zahlen-wieder-steigen/",
+        "Title": "In welchen Regionen die Zahlen besonders steigen",
+        "Publication Date": "11.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/frauen-in-der-coronakrise/",
+        "Title": "Hier trifft die Coronakrise Frauen besonders hart",
+        "Publication Date": "03.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/grafik-erklaerstueck-wie-das-coronavirus-den-koerper-befaellt/",
+        "Title": "Wie das Coronavirus den K\u00f6rper bef\u00e4llt",
+        "Publication Date": "19.05.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wie-die-coronakrise-den-arbeitsmarkt-getroffen-hat/",
+        "Title": "Berlin bundesweit am H\u00e4rtetesten von Corona-Arbeitslosigkeit betroffen",
+        "Publication Date": "18.06.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/weniger-stromverbrauch-durch-corona-weniger-co2-hoehere-stromrechnungen-fuer-verbraucher/",
+        "Title": "Weil der Strompreis sinkt, steigt wahrscheinlich Ihre Stromrechnung",
+        "Publication Date": "04.05.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-im-vergleich-zu-anderen-todesursachen-woran-wir-sterben/",
+        "Title": "Woran wir sterben",
+        "Publication Date": "03.06.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/karten-so-hat-sich-das-coronavirus-ausgebreitet/",
+        "Title": "So hat sich das Coronavirus ausgebreitet",
+        "Publication Date": "29.01.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/die-globale-verbreitung-des-coronavirus-im-zeitverlauf/",
+        "Title": "Die globale Verbreitung des Virus im Zeitverlauf",
+        "Publication Date": "17.03.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/sars-cov-2-das-virus-in-echtzeit/",
+        "Title": "Das Virus in Echtzeit",
+        "Publication Date": "03.03.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/sars-cov-2-der-verkehr-in-den-grossstaedten-nimmt-drastisch-ab/",
+        "Title": "Der Verkehr in den Gro\u00dfst\u00e4dten nimmt drastisch ab",
+        "Publication Date": "24.03.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/ausweg-aus-der-zweiten-welle-bezwingt-die-slowakei-das-coronavirus-mit-massentests/",
+        "Title": "Bezwingt die Slowakei das Coronavirus mit Massentests und hohen Strafen?",
+        "Publication Date": "13.11.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/ruegen-verboten-risiko-staaten-erlaubt-so-unlogisch-ist-der-umgang-mit-risikogebieten/",
+        "Title": "So unlogisch ist der Umgang mit Risikogebieten",
+        "Publication Date": "16.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-grossbritannien-15000-faelle-gingen-verloren-weil-behoerden-excel-nutzten/",
+        "Title": "15.000 F\u00e4lle gingen verloren \u2013 weil Beh\u00f6rden Excel benutzten",
+        "Publication Date": "09.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-russland-wie-eine-zweite-corona-welle-russland-zu-neuen-massnahmen-zwingt/",
+        "Title": "Wie eine zweite Corona-Welle Russland zu neuen Ma\u00dfnahmen zwingt",
+        "Publication Date": "02.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-ungarn-warum-nationalismus-nicht-gegen-die-pandemie-hilft/",
+        "Title": "Warum Nationalismus nicht gegen die Pandemie hilft",
+        "Publication Date": "25.09.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-andorra-liechtenstein-malta-monaco-san-marino-und-vatikan-wie-das-virus-europas-zwergstaaten-gefaehrdet/",
+        "Title": "Wie das Virus Europas Zwergstaaten gef\u00e4hrdet",
+        "Publication Date": "18.09.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-grossbritannien-wie-grossbritannien-mit-ansage-in-die-zweite-welle-rutscht/",
+        "Title": "Wie Gro\u00dfbritannien mit Ansage in die zweite Welle rutscht",
+        "Publication Date": "11.09.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-belarus-wo-demokratie-wichtiger-ist-als-das-virus/",
+        "Title": "Wo Demokratie wichtiger ist als das Virus",
+        "Publication Date": "04.09.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-der-schweiz-wie-schweizer-sorglosigkeit-die-fallzahlen-steigen-laesst/",
+        "Title": "Wie Schweizer Sorglosigkeit die Fallzahlen steigen l\u00e4sst",
+        "Publication Date": "28.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-japan-australien-sind-zweite-wellen-beherrschbar/",
+        "Title": "Zweite Wellen sind beherrschbar",
+        "Publication Date": "21.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-beliebten-urlaubslaendern-wo-tourismus-zum-risiko-wird/",
+        "Title": "Wo Tourismus zum Risiko wird \u2013 und wo nicht",
+        "Publication Date": "17.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-im-libanon-warum-die-explosion-zur-denkbar-schlimmsten-zeit-kam/",
+        "Title": "Die Explosion kam zur denkbar schlimmsten Zeit",
+        "Publication Date": "07.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-in-nordamerika-usa-mexiko-kanada/",
+        "Title": "Was Kanada besser macht als die USA und Mexiko",
+        "Publication Date": "01.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-im-iran-die-zahl-der-toten-steigt-immer-schneller/",
+        "Title": "Die Zahl der Toten steigt immer schneller",
+        "Publication Date": "24.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/corona-international-gibt-es-eine-zweite-welle/",
+        "Title": "Gibt es eine zweite Welle?",
+        "Publication Date": "20.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/strassencheck/",
+        "Title": "Der Berliner Stra\u00dfencheck",
+        "Publication Date": "02.12.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/strassencheck-ergbnisse-diese-strassen-will-berlin/",
+        "Title": "Solche Stra\u00dfen will Berlin",
+        "Publication Date": "06.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/strassencheck-das-stoert-im-berliner-verkehr-am-meisten/",
+        "Title": "Das st\u00f6rt im Berliner Verkehr am meisten",
+        "Publication Date": "16.02.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/alle-schlimmen-verkehrsunfaelle-in-berlin-auf-einer-karte/",
+        "Title": "Alle schlimmen Verkehrsunf\u00e4lle in Berlin auf einer Karte",
+        "Publication Date": "28.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/die-deutschen-wollen-keine-lieferdrohnen/",
+        "Title": "Flugtaxis und Lieferdrohnen unerw\u00fcnscht",
+        "Publication Date": "18.06.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/so-gefaehrlich-werden-e-scooter-ueberholt/",
+        "Title": "So gef\u00e4hrlich werden E-Scooter \u00fcberholt",
+        "Publication Date": "09.12.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/radmesser/",
+        "Title": "Radmesser",
+        "Publication Date": NaN,
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/alle-unfaelle-berlins-auf-einer-karte/",
+        "Title": "Alle Unf\u00e4lle Berlins 2018 auf einer Karte",
+        "Publication Date": "20.08.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/das-comeback-der-eier/",
+        "Title": "Das Comeback der Eier",
+        "Publication Date": "21.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/die-besten-neuen-restaurants-in-berlin/",
+        "Title": "Die besten neuen Restaurants in Berlin",
+        "Publication Date": "01.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/was-sie-jetzt-zum-mietendeckel-wissen-muessen/",
+        "Title": "Was Sie jetzt zum Mietendeckel wissen m\u00fcssen",
+        "Publication Date": "01.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/diese-zehn-firmen-treiben-den-mietspiegel-in-berlin-besonders-in-die-hoehe/",
+        "Title": "Diese zehn Vermieter treiben den Mietspiegel besonders in die H\u00f6he",
+        "Publication Date": "26.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wem-gehoert-der-boxi/",
+        "Title": "Wem geh\u00f6rt(e) der Boxi?",
+        "Publication Date": "21.10.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/mieten-und-renditen/",
+        "Title": "Wer profitiert vom Berliner Mietmarkt?",
+        "Publication Date": "28.06.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/eigentuemersuche/",
+        "Title": "Geh\u00f6rt meine Wohnung Berlins gr\u00f6\u00dften Eigent\u00fcmern?",
+        "Publication Date": "10.06.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/das-verdeckte-imperium/",
+        "Title": "Das verdeckte Imperium",
+        "Publication Date": "31.05.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/artikel/jackpot-mit-landesgeldern/",
+        "Title": "Jackpot mit Landesgeldern",
+        "Publication Date": NaN,
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/wem-gehoert-berlin/artikel/moebel-statt-mietpreisbremse/",
+        "Title": "M\u00f6bel statt Mietpreisbremse",
+        "Publication Date": NaN,
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://digitalpresent.tagesspiegel.de/karte-der-berliner-mieterinitiativen",
+        "Title": "Eine Karte aller Berliner Mieterinitiativen und Beratungsstellen",
+        "Publication Date": NaN,
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/100-jahre-gross-berlin/",
+        "Title": "Berlins verlorene Altstadt",
+        "Publication Date": "10.03.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/niemals-vergessen/",
+        "Title": "Niemals vergessen!",
+        "Publication Date": "25.01.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/survivors-ueberlebende-des-holocaust/",
+        "Title": "Survivors",
+        "Publication Date": "26.01.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/mauerfall-89-19/",
+        "Title": "89/19",
+        "Publication Date": "08.11.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/die-gedanken-waren-frei/",
+        "Title": "Die Gedanken waren frei",
+        "Publication Date": "08.11.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://fieldtrip.tagesspiegel.de/",
+        "Title": NaN,
+        "Publication Date": NaN,
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wo-die-meisten-gefluechteten-jugendlichen-vermisst-werden/",
+        "Title": "Auf der Suche nach den verschwundenen Fl\u00fcchtlings\u00adkindern",
+        "Publication Date": "07.08.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/ber/",
+        "Title": "Es ist vollbracht!",
+        "Publication Date": "22.07.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/die-opfer-des-rechten-praesidenten/",
+        "Title": "Die Opfer des rechten Pr\u00e4sidenten",
+        "Publication Date": "20.02.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/berlin-rueckblick-2010er/",
+        "Title": "Raues Pflaster, gro\u00dfes Herz",
+        "Publication Date": "29.12.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/facefilter-masken-fuer-millionen/",
+        "Title": "Masken f\u00fcr Millionen",
+        "Publication Date": "07.09.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wer-ist-schuld-am-alexanderplatz/",
+        "Title": "Wer ist schuld am Alexanderplatz?",
+        "Publication Date": "26.09.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/eu-quiz/",
+        "Title": "Das Europa Quiz",
+        "Publication Date": NaN,
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/wo-in-deutschland-jetzt-wasser-knapp-ist/",
+        "Title": "Wo in Deutschland jetzt Wasser knapp ist \u2013 und was Sie tun k\u00f6nnen",
+        "Publication Date": "13.08.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/was-ist-eigentlich-wohlstand/",
+        "Title": "Was ist eigentlich Wohlstand?",
+        "Publication Date": "20.02.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/3-jahre-trump-in-15-grafiken/",
+        "Title": "TRUMP",
+        "Publication Date": "19.01.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/so-haben-wir-in-diesem-jahrzehnt-die-welt-veraendert/",
+        "Title": "So haben wir in diesem Jahrzehnt die Welt ver\u00e4ndert",
+        "Publication Date": "29.12.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/pflegeheim-umfrage/",
+        "Title": "Wie zufrieden sind Berlins Pflegekr\u00e4fte mit ihrer Arbeit?",
+        "Publication Date": "28.10.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/china-der-gefuerchtete-partner/",
+        "Title": "China: Der gef\u00fcrchtete Partner",
+        "Publication Date": "16.09.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/deutschland-im-funkloch/",
+        "Title": "Deutschland im Funkloch",
+        "Publication Date": "09.08.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/zwanzig-fragen-zur-us-wahl/",
+        "Title": "Die 20 wichtigsten Fragen zur US-Wahl",
+        "Publication Date": "22.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/us-wahlsystem/",
+        "Title": "So funktioniert die US-Pr\u00e4sidentschaftswahl",
+        "Publication Date": "19.10.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/waehlerwanderung-buergerschaftswahl-2020-hamburg/",
+        "Title": "Wahl in Hamburg: Von wem die Gr\u00fcnen Stimmen gewonnen haben",
+        "Publication Date": "24.02.2020",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/landtagswahl-thueringen-2019/",
+        "Title": "So haben Th\u00fcringens Gemeinden gew\u00e4hlt",
+        "Publication Date": "22.10.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/waehlerwanderung-thueringen/",
+        "Title": "Woher die neuen W\u00e4hler der AfD kommen",
+        "Publication Date": "28.10.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/landtagswahl-brandenburg-2019/",
+        "Title": "So haben Brandenburgs Gemeinden gew\u00e4hlt",
+        "Publication Date": "30.08.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/waehlerwanderung-brandenburg/",
+        "Title": "Wie die AfD in Brandenburg so stark geworden ist",
+        "Publication Date": "02.09.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/landtagswahl-sachsen-2019/",
+        "Title": "So haben Sachsens Gemeinden gew\u00e4hlt",
+        "Publication Date": "30.08.2019",
+        "Format": NaN,
+        "Layout": NaN
+    },
+    {
+        "Newspaper": "Tagesspiegel",
+        "Link": "https://interaktiv.tagesspiegel.de/lab/waehlerwanderung-sachsen/",
+        "Title": "An wen die CDU in Sachsen Stimmen verloren hat",
+        "Publication Date": "02.09.2019",
+        "Format": NaN,
+        "Layout": NaN
+    }
+]
